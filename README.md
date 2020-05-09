@@ -1,6 +1,6 @@
 ![image](https://github.com/jackjou0920/Dissertation_Generator/blob/master/img/logo.png)
 # Dissertation_Generator
-It is a dissertation research for my Master degree in UK. The project implemented a Natural Language Generation (NLG) task: generating an meaningful and relevant abstract of dissertation given any topic in the certain domain, through the state-of-the-art neural network model, Transformer, by Tensorflow package.
+It was a dissertation research for my Master degree in UK. The project implemented a Natural Language Generation (NLG) task: generating an meaningful and relevant abstract of dissertation given any topic in the certain domain, through the state-of-the-art neural network model, Transformer, by Tensorflow package.
 
 ## Requirements
 * Python 3.6 with NLTK, Numpy, pdfminer, and mainly Tensorflow 2.0 environment
