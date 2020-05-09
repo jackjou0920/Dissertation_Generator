@@ -5,7 +5,7 @@ It is a dissertation research for my Master degree in UK. The project implemente
 ## Requirements
 * Python 3.6 with NLTK, Numpy, pdfminer, and mainly Tensorflow 2.0 environment
 * Multiple GPU with over 32G memories
-* Thories of machine learning, especially, neural network applied on NLP for understanding encoder-decoder, language modeling, and attention and self-attention mechanisms
+* Theories of machine learning, especially, neural network applied on NLP for understanding encoder-decoder, language modeling, and attention and self-attention mechanisms
 
 ## Architechture
 ### Scaled dot product attention
